@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.Desktop", "TicketSystem.Desktop.csproj", "{74C0F9A4-2EA3-47C6-9502-9F4FB6D77520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.API", "..\TicketSystem.API\TicketSystem.API.csproj", "{67A72DBD-5C26-479C-A29C-64F05A7B146A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74C0F9A4-2EA3-47C6-9502-9F4FB6D77520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C0F9A4-2EA3-47C6-9502-9F4FB6D77520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C0F9A4-2EA3-47C6-9502-9F4FB6D77520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C0F9A4-2EA3-47C6-9502-9F4FB6D77520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A72DBD-5C26-479C-A29C-64F05A7B146A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A72DBD-5C26-479C-A29C-64F05A7B146A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A72DBD-5C26-479C-A29C-64F05A7B146A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A72DBD-5C26-479C-A29C-64F05A7B146A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C5CE121-7579-4B7B-B2F3-D5086BC138FA}
+	EndGlobalSection
+EndGlobal

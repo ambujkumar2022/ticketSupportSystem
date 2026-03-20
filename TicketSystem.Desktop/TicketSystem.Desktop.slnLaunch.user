@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TicketSystem.Desktop.csproj",
+        "Action": "Start",
+        "DebugTarget": "TicketSystem.Desktop"
+      },
+      {
+        "Path": "..\\TicketSystem.API\\TicketSystem.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
